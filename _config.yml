@@ -101,7 +101,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Discord"
       icon: "fas fa-fw fa-link"
       url: "https://discord.gg/j3hWXq86wg"
     - label: "Twitter"
