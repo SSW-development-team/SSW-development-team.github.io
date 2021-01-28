@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
@@ -101,7 +101,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Discord"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://discord.gg/j3hWXq86wg"
     - label: "Twitter"
