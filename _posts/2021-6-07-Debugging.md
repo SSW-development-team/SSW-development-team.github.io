@@ -14,7 +14,7 @@ categories: Debug
 * 기본 로그 파일
 * 크래시 로그
 * 에러로그 분석
-    1. 일반적 오류
+    1. [일반적 오류](https://ssw-development-team.github.io/debug/Debugging/#%EA%B8%B0%EB%A1%9D%EB%90%9C-%EC%98%A4%EB%A5%98-%EB%AA%A9%EB%A1%9D, "일반적 오류")
     2. 커먼 폴더
     3. 히스토리 폴더
     4. GFX폴더
